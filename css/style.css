@@ -1,9 +1,5 @@
 html, body {
     height: 90%;
-    background-color: #000000;
-}
-pre {
-    color: white;
 }
 .parent {
     width: 100%;
@@ -15,22 +11,7 @@ pre {
     display: table-cell;
     vertical-align: middle;
 }
-.slider {
-    width: 20%;
-    height: 15%;
-    margin: 0 auto;
-}
-.slick-prev:before, .slick-next:before {
-    color:#808080;
-}
 .centerHorizontally {
     display: table;
     margin: 0 auto;
-}
-.bottom-three {
-    margin-bottom: 3cm;
-}
-.slick-dots li button:before {
-
-    color: white !important;
 }
